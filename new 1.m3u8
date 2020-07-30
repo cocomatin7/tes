@@ -87,16 +87,6 @@ http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg" group-title="SPORTS", TVRI SPORTS
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg"  group-title="SPORTS",Usee Sport 1
-https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg"  group-title="SPORTS", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1595700852~acl=/hls-p/ingest_geo_6685_*/*~hmac=b2b83e59de1c9064ddbd39c608ac8bbd37f59ac2724878c56a2bb34dce1f395b/hls-p/ingest_geo_6685_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg"  group-title="SPORTS", Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1595701850~acl=/hls-p/ingest_geo_6686_*/*~hmac=55e490ce487ca31a78fab308f635fb5bf96030854f10151f325dc29b8df1a446/hls-p/ingest_geo_6686_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg"  group-title="SPORTS", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1595702121~acl=/hls-p/ingest_geo_6786_*/*~hmac=622b53f06d97b5cceca1704918d8711ac23ed1e6e7820ad0070f47e1e4f36351/hls-p/ingest_geo_6786_360p/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg"  group-title="SPORTS",Mola FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
@@ -202,23 +192,6 @@ https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="SPORTS",SkyNet Sport 6
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tdedgolden.com/post-img/06122019142633-10102019170013-cxxc56.jpg" group-title="SPORTS",Skynet Sport +
-http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="SPORTS",Skynet Sport HD (alt)
-https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",Skynet Sport 1 (alt)
-https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS",Skynet Sport 2 (alt)
-https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="SPORTS",Skynet Sport 3 (alt)
-https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="SPORTS",Skynet Sport 4 (alt)
-https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="SPORTS",Skynet Sport 5 (alt)
-https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="SPORTS",Skynet Sport 6 (alt)
-https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS",BT SPORT 1 HD
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
