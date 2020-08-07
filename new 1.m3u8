@@ -143,7 +143,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fig.Int" tvg-logo="hhttps://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg group-title="SPORTS",Fight Sports
 http://103.47.132.164/PLTV/88888888/224/3221227065/2.m3u8
 #EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="SPORTS",Golf Channel
-http://103.47.132.164/PLTV/88888888/224/3221227325/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227325/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",True Tennis HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",Golf Channel HD
@@ -322,6 +322,7 @@ http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",EGG NETWORK ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Aniplus (Opt-1)
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/02.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus (Opt-1)
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
