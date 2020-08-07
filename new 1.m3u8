@@ -313,13 +313,13 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 http://103.47.132.164/PLTV/88888888/224/3221227187/1.m3u8
 
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",DAVINCI
-http://45.126.83.51/uq2663/h/h01/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",DAVINCI
+http://45.126.83.51/uq2663/h/h01/02.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",EGG NETWORK ID
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",EGG NETWORK ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KIDS" ANIMAX
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/kr/Animax.kr.png",Animax
 http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/kr/Animax.kr.png",Animax (Opt-1)
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/02.m3u8
