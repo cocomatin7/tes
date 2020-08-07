@@ -12,6 +12,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b1920
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b192000_sleng.m3u8
 #EXTINF:-1 group-title="1. TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4-m4a_64000=2.m3u8
+#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="1. TV NASIONAL",Indosiar
+http://103.47.132.164/PLTV/88888888/224/3221227345/2.m3u8
 #EXTINF:-1 group-title="1. TV NASIONAL" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png",INDOSIAR (2)
 http://rr2.dens.tv/s/s04/02.m3u8
 #EXTINF:-1 group-title="1. TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews
@@ -173,6 +175,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",DAAI TV
 http://210.210.155.35/session/c32b3aa8-7e14-11ea-a861-b82a72d63267/qwr9ew/s/s13/02.m3u8
+#EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="LOKAL",Da Ai Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221227241/2.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/A4oAMGm.png",ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/FDOdcXd.png",Galaxy
@@ -184,6 +188,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/300px-UseeTV.png",ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+#EXTINF:-1 tvg-id="JAK.ID" tvg-logo="http://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="LOKAL",Jak TV
+http://103.47.132.164/PLTV/88888888/224/3221227237/2.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV SURABAYA (2)
