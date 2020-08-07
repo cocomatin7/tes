@@ -241,12 +241,20 @@ http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/gHCOcuF.png",CinemaWorld (Opt-2)
 http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CRIME INVESTIGATION
+http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX
 http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FX
 http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Action Movies
+http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX FAMILY MOVIES
+http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Fox Movies
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Crime
 http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Life
@@ -255,16 +263,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227277/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Hits Movies2
 http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CRIME INVESTIGATION
-http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Movies HD 1
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Action Movies
-http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX FAMILY MOVIES
-http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Fox Movies
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
+
+
 
 
 
@@ -317,12 +317,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/1.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",DAVINCI
-http://45.126.83.51/uq2663/h/h01/index.m3u8
+http://45.126.83.51/uq2663/h/h01/1.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",EGG NETWORK ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Aniplus (Opt-1)
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KIDS" ANIMAX
+http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax (Opt-1)
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/02.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus (Opt-1)
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
@@ -337,8 +339,8 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",My KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+
+
 
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="PENGETAHUAN",History
 http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
@@ -352,7 +354,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227177/1.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227127/1.m3u8
 #EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN,Nat Geo Wild
 http://103.47.132.164/PLTV/88888888/224/3221227157/1.m3u8
-#EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="Family",Smithsonian
+#EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="PENGETAHUAN",Smithsonian
 http://103.47.132.164/PLTV/88888888/224/3221227321/1.m3u8
 
 
