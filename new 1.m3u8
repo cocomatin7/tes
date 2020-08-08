@@ -16,6 +16,8 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4-m4a_64
 http://103.47.132.164/PLTV/88888888/224/3221227345/2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png",INDOSIAR (2)
 http://rr2.dens.tv/s/s04/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="TV NASIONAL",INDOSIAR 
+https://mkctv.net/video/indosiar.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (2)
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_600000=4-m4a_64000=2.m3u8
@@ -67,6 +69,10 @@ http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 1
+https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 2
+https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="SPORTS",Persija TV
@@ -302,9 +308,6 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg",HBO Hits
 http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34804?play_token=U3gFZg2bPG&token=QhVcUhcJRggXUgZSBwQEBVZUBQVWV1xQVAABVVQAVlUPUVJSUlhcUFdGGURBEkJRAFtpWgVEXlBRXAVVSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlNYARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg",HBO Hits (2)
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",HBO Family
 http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34809?play_token=xwtFeABAdn&token=QhVcUhcJRggXXQBUVFUGDVNUVwRWVgBWXF0CBQBVVlEOUwFRUFYFBQZGGURBEkJRAFtpWgVEXlBRXAVYSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlNZARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
