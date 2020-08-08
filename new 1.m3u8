@@ -73,6 +73,8 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 2
 https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 2
+https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="SPORTS",Persija TV
