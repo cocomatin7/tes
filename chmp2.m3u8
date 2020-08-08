@@ -2,9 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
 https://etslive-2-vidio-com.akamaized.net/exp=1596920251~acl=/hls-p/ingest_geo_6686_*/*~hmac=faf02b7a2cda206fa616d6d04642a85f7bc4d4b988e38060c14bd1af66ddf489/hls-p/ingest_geo_6686_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1596920251~acl=/hls-p/ingest_geo_6686_*/*~hmac=faf02b7a2cda206fa616d6d04642a85f7bc4d4b988e38060c14bd1af66ddf489/hls-p/ingest_geo_6686_240p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
 https://etslive-2-vidio-com.akamaized.net/exp=1596920251~acl=/hls-b/ingest_geo_6686_*/*~hmac=b56adaad2b78c1ab8bb742aaf2175b95659c33b00f43631526ee598e65d85a54/hls-b/ingest_geo_6686_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1596920251~acl=/hls-b/ingest_geo_6686_*/*~hmac=b56adaad2b78c1ab8bb742aaf2175b95659c33b00f43631526ee598e65d85a54/hls-b/ingest_geo_6686_240p/index.m3u8
