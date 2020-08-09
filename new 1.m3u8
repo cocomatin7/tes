@@ -90,14 +90,6 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="SPORTS",Persija TV
 http://103.47.132.164/PLTV/88888888/224/3221227429/2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="SPORTS",CHAMPION 1
-http://dikatv.000webhostapp.com/championtv1.php
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="SPORTS",CHAMPION 2 
-http://dikatv.000webhostapp.com/championtv2.php
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="SPORTS",CHAMPION 3 
-http://dikatv.000webhostapp.com/championtv3.php
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports HD 720
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports SD 360
@@ -305,11 +297,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227319/1.m3u8
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/gHCOcuF.png",CinemaWorld (Opt-2)
 http://210.210.155.35/uq2663/h/h04/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/T1NXrwNn/citra-bioskop-channel-tv-logo.jpg" group-title="FILM & SERIAL",CITRA BIOSKOP
-http://dikatv.000webhostapp.com/citrabioskop.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="FILM & SERIAL",CITRA DRAMA
-http://dikatv.000webhostapp.com/citradrama.php
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CRIME INVESTIGATION
 http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",Dubai One
@@ -385,8 +373,7 @@ http://210.210.155.35/qwr9ew/s/s34/02.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN
 https://macan.live/live/macangratisan/1595610899/97.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMgnryF9/6-TVN-TV.jpg" group-title="FILM & SERIAL",TVN
-http://dikatv.000webhostapp.com/tvn.php
+
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN MOVIES
 https://macan.live/live/macangratisan/1595610899/98.m3u8
