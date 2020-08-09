@@ -69,12 +69,6 @@ http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 1
-https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 2
-https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CHAMPIONS TV 3
-https://raw.githubusercontent.com/pakdhe2011/tes/master/chmp3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="SPORTS",Persija TV
@@ -256,7 +250,7 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="RELIGI",Rodja TV
 http://103.47.132.164/PLTV/88888888/224/3221227225/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="RELIGI",Salam TV
-http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/YozWGVj.png",TV 9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
 
