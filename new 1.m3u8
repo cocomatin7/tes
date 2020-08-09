@@ -48,6 +48,9 @@ http://103.47.132.164/PLTV/88888888/224/3221227223/03.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227227/03.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_sctv_big1.png",SCTV (2)
 http://210.210.155.35/session/f426ad66-7e11-11ea-9e95-b82a72d63267/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_sctv_big1.png",SCTV (3)
+https://mkctv.net/video/sctv.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_trans7_big1.png",TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b192000_sleng.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_transtv_big1.png",TRANS TV
@@ -245,14 +248,20 @@ http://210.210.155.35/qwr9ew/s/s28/02.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_41200=1.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Al Sunnah An Nabawiyyah (Opt-2) 
 http://210.210.155.35/qwr9ew/s/s27/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="RELIGI",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="RELIGI",MTA TV
+https://macan.live/live/macangratisan/1595610899/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="RELIGI",Rodja TV
 http://103.47.132.164/PLTV/88888888/224/3221227225/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="RELIGI",Salam TV
 http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
+
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/YozWGVj.png",TV 9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/YozWGVj.png",TV 9 Nusantara (2)
+https://macan.live/live/macangratisan/1595610899/26.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://tvmu.tv/wp-content/uploads/2014/12/tvmu1.png",tvMU
+https://macan.live/live/macangratisan/1595610899/25.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",AXN
@@ -340,8 +349,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/WzyIoRc.png",Thrill
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Warner TV HD
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN
+https://macan.live/live/macangratisan/1595610899/97.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN MOVIES
+https://macan.live/live/macangratisan/1595610899/98.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/XUVOX9K.png",Zee Bioskop (Opt-1)
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="MOVIES",Zee Bioskop
@@ -409,8 +422,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227321/3.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227113/1.m3u8
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://127.0.0.1/",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://127.0.0.1/",E-KONSER
+https://macan.live/live/macangratisan/1595610899/55.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",MTV
+https://macan.live/live/macangratisan/1595610899/54.m3u8
 #EXTINF:-1 group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",MIX MUSIC
@@ -421,8 +436,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",ONE
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+
 #EXTINF:-1 group-title="MUSIC",POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PRAMBORS
@@ -481,9 +496,9 @@ http://210.210.155.35/session/67793070-7da1-11ea-a11f-b82a72d63267/qwr9ew/s/s24/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="ASIA TENGGARA", (BR) RTB
 https://rtb-channel.glue.live/smil:rtb1/index.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png",(MR) Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png",(SG) Channel 5
@@ -554,3 +569,8 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+
+
+
+
