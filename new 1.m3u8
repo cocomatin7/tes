@@ -219,7 +219,7 @@ http://210.210.155.35/session/c32b3aa8-7e14-11ea-a861-b82a72d63267/qwr9ew/s/s13/
 http://103.47.132.164/PLTV/88888888/224/3221227241/2.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/A4oAMGm.png",ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film",FLIX
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="FILM & SERIAL",FLIX
 https://mkctv.net/.tvbos./flik.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/FDOdcXd.png",Galaxy
 https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
@@ -230,7 +230,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/300px-UseeTV.png",ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film",IMC
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="FILM & SERIAL",IMC
 https://mkctv.net/.tvbos./imc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="LOKAL+",Inspirasi
 http://103.47.132.164/PLTV/88888888/224/3221227235/2.m3u8
@@ -375,7 +375,7 @@ https://macan.live/live/macangratisan/1595610899/98.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mfeJx_25ejo/UsauoVd_daI/AAAAAAAAAoo/0OcxivAebQc/s1600/Galaxytv.jpg" group-title="FILM & SERIAL",Warner
 https://mkctv.net/.tvbos./warner.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Film",Waku Waku Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="FILM & SERIAL",Waku Waku Japan
 https://mkctv.net/.tvbos./waku.m3u8
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/XUVOX9K.png",Zee Bioskop (Opt-1)
