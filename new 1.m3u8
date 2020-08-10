@@ -68,9 +68,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (3)
 http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 
-###### VIDIO.COM ######
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0BwzgMY/9-LOVENATURE.jpg" group-title="VIDIO.COM",LOVE NATURE
-http://dikatv.000webhostapp.com/lovenature.m3u8
+
 
 
 
@@ -214,9 +212,6 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 
 
 
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DANGDUT
-http://dikatv.000webhostapp.com/citradangdut.php
 
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",DAAI TV
 http://210.210.155.35/session/c32b3aa8-7e14-11ea-a861-b82a72d63267/qwr9ew/s/s13/02.m3u8
@@ -394,8 +389,14 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="KIDS",BBC CBeebies
 http://103.47.132.164/PLTV/88888888/224/3221227353/1.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",DAVINCI
-http://45.126.83.51/uq2663/h/h01/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61Y3OYa.jpg" group-title="Kids",Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHOB7kt.jpg" group-title="Kids",Captain Tsubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+
+
+
 
 
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KIDS",Disney Channel
@@ -403,12 +404,20 @@ http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxkssxQJ/dgkai.jpg" group-title="Kids",DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",EGG NETWORK ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMJXqRKM/hunter.jpg" group-title="Kids",HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGS6VWT4/inu.jpg" group-title="Kids",INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH4ZdqkP/onep.jpg" group-title="Kids",ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhFVhXFZ/tom.jpg" group-title="Kids",Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="KIDS",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/1.m3u8
 
@@ -476,6 +485,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227133/1.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+http://210.210.155.35/qwr9ew/s/s17/02.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALJAZEERA arab 360P"  group-title="BERITA",ALJAZEERA ARABIC 360P
 http://210.210.155.35/session/9aea34f0-7da0-11ea-a929-b82a72d63267/qwr9ew/s/s16/02.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png",BBC World News
@@ -503,8 +513,9 @@ http://210.210.155.35/session/08a0e5f2-7da1-11ea-929d-c81f66f89318/qwr9ew/s/s22/
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
-#EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png",RT
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png",RUSSIA TODAY
+http://210.210.155.35/qwr9ew/s/s23/02.m3u8
+
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/es/Telesur.es.png",Telesur English
@@ -518,9 +529,10 @@ http://210.210.155.35/session/67793070-7da1-11ea-a11f-b82a72d63267/qwr9ew/s/s24/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="ASIA TENGGARA", (BR) RTB
 https://rtb-channel.glue.live/smil:rtb1/index.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png",(MR) Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png",(SG) Channel 5
