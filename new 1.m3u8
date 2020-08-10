@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_antv_big1.png",ANTV
 http://rr2.dens.tv/s/s07/02.m3u8
 
@@ -117,7 +118,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
-http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227219/3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg",TrueSport HD 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg",TrueSport HD 2
@@ -218,6 +219,8 @@ http://210.210.155.35/session/c32b3aa8-7e14-11ea-a861-b82a72d63267/qwr9ew/s/s13/
 http://103.47.132.164/PLTV/88888888/224/3221227241/2.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/A4oAMGm.png",ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film",FLIX
+https://mkctv.net/.tvbos./flik.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/FDOdcXd.png",Galaxy
 https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Hi! Channel
@@ -227,6 +230,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/300px-UseeTV.png",ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film",IMC
+https://mkctv.net/.tvbos./imc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="LOKAL+",Inspirasi
 http://103.47.132.164/PLTV/88888888/224/3221227235/2.m3u8
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="http://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="LOKAL+",Jak TV
@@ -235,6 +240,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227237/2.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227243/2.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV SURABAYA (2)
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1843041589.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/Mayapada_TV.png" group-title="LOKAL+",MYTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://i.imgur.com/ANiUsNh.png",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",RUANG TERAMPIL
@@ -257,8 +264,6 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png",Al Quran Al Kareem (Opt-2)
 http://210.210.155.35/qwr9ew/s/s28/02.m3u8
-#EXTINF:-1 group-title="RELIGI" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png",Al Quran Al Kareem (Opt-3)
-https://raw.githubusercontent.com/pakdhe2011/tes/master/quran.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Al Sunnah An Nabawiyyah 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_41200=1.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Al Sunnah An Nabawiyyah (Opt-2) 
@@ -294,6 +299,11 @@ http://210.210.155.35/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/gHCOcuF.png",CinemaWorld (Opt-2)
 http://210.210.155.35/uq2663/h/h04/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logogrey/grey_logo_citradrama_small.png" group-title="FILM & SERIAL",Citra Bioskop
+https://mkctv.net/video/6685-cbioskop.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logogrey/grey_logo_citradrama_small.png" group-title="FILM & SERIAL",Citra Drama
+https://mkctv.net/video/cdrama.m3u8
+
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CRIME INVESTIGATION
 http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",Dubai One
@@ -317,7 +327,18 @@ http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Hits Movies2
 http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
 
-
+#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="FILM & SERIAL",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="FILM & SERIAL",HBO Hits 
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="FILM & SERIAL",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="FILM & SERIAL",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="FILM & SERIAL",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#EXTINF:0 tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="FILM & SERIAL",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",K+
@@ -328,8 +349,6 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="FILM & SERIAL",ktv
 http://103.47.132.164/PLTV/88888888/224/3221227231/3.m3u8
-#EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="FILM & SERIAL",SINEMA INDONESIA
 http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/AP5JfCM.png",Sony Gem
@@ -353,6 +372,12 @@ https://macan.live/live/macangratisan/1595610899/97.m3u8
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN MOVIES
 https://macan.live/live/macangratisan/1595610899/98.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mfeJx_25ejo/UsauoVd_daI/AAAAAAAAAoo/0OcxivAebQc/s1600/Galaxytv.jpg" group-title="FILM & SERIAL",Warner
+https://mkctv.net/.tvbos./warner.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Film",Waku Waku Japan
+https://mkctv.net/.tvbos./waku.m3u8
+
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/XUVOX9K.png",Zee Bioskop (Opt-1)
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="FILM & SERIAL",Zee Bioskop
@@ -507,13 +532,15 @@ http://210.210.155.35/session/67793070-7da1-11ea-a11f-b82a72d63267/qwr9ew/s/s24/
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="ASIA TENGGARA", (BR) RTB
+#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="ASIA TENGGARA",(BR) RTB
 https://rtb-channel.glue.live/smil:rtb1/index.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="ASIA TENGGARA",(MY) TV3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png",(MR) Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png",(SG) Channel 5
@@ -544,37 +571,38 @@ https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) Workpoint HD
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",NHK総合
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",NHK 
 http://203.162.235.41:16903
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK Eテレ
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK E TV
 http://203.162.235.41:16901
-#EXTINF:-1 group-title="日本" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",NHK BSプレミアム
+#EXTINF:-1 group-title="日本" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",NHK BS PREMIUM
 http://203.162.235.41:16910
-#EXTINF:-1 group-title="日本" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBSテレビ
+
+#EXTINF:-1 group-title="日本" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBS TV
 http://203.162.235.41:16907
 #EXTINF:-1 group-title="日本" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg",BS TBS
 http://203.162.235.41:16913
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",テレビ朝日
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",TV ASAHI
 http://203.162.235.41:16906
-#EXTINF:-1 group-title="日本" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Logo_asahi.png",BS 朝日
+#EXTINF:-1 group-title="日本" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Logo_asahi.png",BS ASAHI
 http://203.162.235.41:16914
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",フジテレビ
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",FUJI TV
 http://203.162.235.41:16904
-#EXTINF:-1 group-title="日本" tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png",BSフジ
+#EXTINF:-1 group-title="日本" tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png",BS FUJI
 http://203.162.235.41:16911
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",テレビ東京
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",TV TOKYO
 http://203.162.235.41:16908
-#EXTINF:-1 group-title="日本" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg",BS 東京
+#EXTINF:-1 group-title="日本" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg",BS TOKYO
 http://203.162.235.41:16915
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png",BS 日テレ
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png",BS NTV
 http://203.162.235.41:16912
-#EXTINF:-1 group-title="日本" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png",日テレ
+#EXTINF:-1 group-title="日本" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png",NIPPON TV
 http://203.162.235.41:16905
-#EXTINF:-1 group-title="日本" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg",日テレ NEWS24
+#EXTINF:-1 group-title="日本" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg",NTV NEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png",WOWOW シネマ
+#EXTINF:-1 group-title="日本" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png",WOWOW CINEMA
 http://203.162.235.41:16916
-#EXTINF:-1 group-title="日本" tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png",CGN 日本
+#EXTINF:-1 group-title="日本" tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png",CGN JAPAN
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 1
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
@@ -582,7 +610,7 @@ http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",MX Live
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",ウェザーニュース
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",WEATHER NEWS JAPAN
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
