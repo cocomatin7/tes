@@ -47,9 +47,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227227/03.m3u8
 http://210.210.155.35/session/f426ad66-7e11-11ea-9e95-b82a72d63267/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_trans7_big1.png",TRANS 7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b192000_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1669850941_b744100_sleng.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_transtv_big1.png",TRANS TV
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b192000_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b744100_sleng.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvone_big1.png",TV ONE
 http://210.210.155.35/session/f282fbe2-6910-11ea-b0e3-c81f66f89318/qwr9ew/s/s105/02.m3u8
 
@@ -585,3 +586,8 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",WEATHER NEWS JAPAN
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+
+
+
+
