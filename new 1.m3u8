@@ -13,7 +13,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV (SD)
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV (HD)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=4-m4a_64000=2.m3u8
 #EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="TV NASIONAL",Indosiar
 http://103.47.132.164/PLTV/88888888/224/3221227345/2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png",INDOSIAR (2)
@@ -22,7 +22,7 @@ http://rr2.dens.tv/s/s04/02.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (SD)
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_600000=4-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (HD)
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=4-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/02.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV (Alt)
@@ -33,7 +33,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1156034780
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (SD)
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (HD)
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=4-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/ZKyHPgGZ/NETtv.png",NET.
 http://45.126.83.51/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://i.postimg.cc/ZKyHPgGZ/NETtv.png" group-title="TV NASIONAL",Net
@@ -43,7 +43,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227101/03.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI (SD)
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI (HD)
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=4-m4a_64000=2.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_rtv_big1.png",RTV
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/02.m3u8
@@ -57,13 +57,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227227/03.m3u8
 http://210.210.155.35/session/f426ad66-7e11-11ea-9e95-b82a72d63267/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_trans7_big1.png",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1659887550_b544100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2016011844_b544100_sleng.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_trans7_big1.png",TRANS 7 (HD)
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2016011844_b744100_sleng.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_transtv_big1.png",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1129004556_b544100_sleng.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_transtv_big1.png",TRANS TV (HD)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1129004556_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvone_big1.png",TV ONE
 http://210.210.155.35/session/f282fbe2-6910-11ea-b0e3-c81f66f89318/qwr9ew/s/s105/02.m3u8
@@ -152,6 +152,15 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://bein-xtra-roku.amagi.tv/ingest/playlist288p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV! Russia
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 [Extra-1]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="SPORTS",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="SPORTS",Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 group-title="SPORTS",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png",Varzesh 1
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png",Varzesh 2
@@ -364,11 +373,11 @@ http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN
-https://macan.live/live/macangratisan/1595610899/97.m3u8
+
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN MOVIES
 
-#EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/XUVOX9K.png",Zee Bioskop (Opt-1)
+#EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/XUVOX9K.png",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="FILM & SERIAL",Zee Bioskop
 http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
@@ -419,6 +428,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227323/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="PENGETAHUAN",Asian Food Network
 http://103.47.132.164/PLTV/88888888/224/3221227191/1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="PENGETAHUAN",BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="PENGETAHUAN",BBC Lifestyle
 http://103.47.132.164/PLTV/88888888/224/3221227115/1.m3u8
 
@@ -426,6 +437,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227115/1.m3u8
 http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY ASIA
 http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="PENGETAHUAN",Discovery Science English
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng_360p/index.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="PENGETAHUAN",History
 http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
 
