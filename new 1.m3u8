@@ -153,6 +153,9 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist288p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV! Russia
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 1 HD Backup
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 [Extra-1]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="SPORTS",Star Sports Select 1 HD
@@ -352,10 +355,11 @@ https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 http://210.210.155.35/uq2663/h/h08/02.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/Ow0jRE9.png",K Drama (Opt-1)
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="FILM & SERIAL",K-Drama
+http://103.47.132.164/PLTV/88888888/224/3221227231/3.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",KIX (Opt-2)
 http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="FILM & SERIAL",ktv
-http://103.47.132.164/PLTV/88888888/224/3221227231/3.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="FILM & SERIAL",SINEMA INDONESIA
 http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/AP5JfCM.png",Sony Gem
@@ -366,6 +370,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/1.m3u8
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",SONY ONE (2)
 http://103.47.132.164/PLTV/88888888/224/3221227143/1.m3u8
+
 #EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="FILM & SERIAL",STAR CHINESE MOVIES
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 
