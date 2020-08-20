@@ -258,10 +258,12 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="http://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="LOKAL+",Jak TV
 http://103.47.132.164/PLTV/88888888/224/3221227237/2.m3u8
+#EXTINF:-1 tvg-group="ID" tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="LOKAL+",JiTV JOGJA HD
+http://202.169.224.76:1935/tv/jitv/chunklist_w1644101270.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV
 http://103.47.132.164/PLTV/88888888/224/3221227243/2.m3u8
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV SURABAYA (2)
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1843041589.m3u8
+http://122.248.43.138:1935/ch2/myStream/chunklist_w7607647.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="LOKAL+",MNC life
 https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
 
@@ -537,7 +539,10 @@ http://210.210.155.35/session/2b8d7c78-7da2-11ea-a7a4-b82a72d63267/qwr9ew/s/s26/
 http://210.210.155.35/session/14d50e40-7d9f-11ea-a929-b82a72d63267/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/us/FoxNews.us.png",FOX News
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/fr/France24English.fr.png",France 24
+#EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/fr/France24English.fr.png",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_700.m3u8
+
+#EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/fr/France24English.fr.png",France 24 Francais
 http://210.210.155.35/session/08a0e5f2-7da1-11ea-929d-c81f66f89318/qwr9ew/s/s22/02.m3u8
 
 #EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="BERITA",IDX Channel
@@ -552,6 +557,10 @@ http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="http://static.epg.best/es/Telesur.es.png",Telesur English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png" group-title="BERITA",TRT World
+https://tv-trtworld.live.trt.com.tr/master_360.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy.jpg" group-title="BERITA",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV5MONDE prancis 360P"  group-title="BERITA",TV5MONDE prancis 360P
