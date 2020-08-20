@@ -25,8 +25,10 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_600000=4-m4
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m4a_64000=2.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/02.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV (Alt)
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1156034780_b628000_sleng.m3u8
@@ -115,17 +117,12 @@ https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Sport 506 AU
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Sport News AU
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 
 http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 
 http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
 http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg",TrueSport HD 1
@@ -144,6 +141,12 @@ https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg",TrueSport 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 TH
@@ -158,6 +161,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 [Extra-1]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 [Extra-2]
+http://run.iptv.cab:80/live/nbknripni/106646nbk/1463.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="SPORTS",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="SPORTS",Star Sports Select 2 HD
@@ -343,13 +349,15 @@ http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="FILM & SERIAL",HBO
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/myHBO.m3u8
+#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="FILM & SERIAL",HBO INDIA
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 #EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="FILM & SERIAL",HBO Hits 
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/myHITS.m3u8
 #EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="FILM & SERIAL",HBO Family
-https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/myFAM.m3u8
 #EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="FILM & SERIAL",HBO Signature
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/mySIG.m3u8
 #EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="FILM & SERIAL",Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:0 tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="FILM & SERIAL",Red By HBO
@@ -387,6 +395,9 @@ http://210.210.155.35/qwr9ew/s/s34/02.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tvN MOVIES
 
+#EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",tWaku Waku Japan 
+#EXTVLCOPT:network-caching=1000
+http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/62143
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.imgur.com/XUVOX9K.png",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="FILM & SERIAL",Zee Bioskop
@@ -588,6 +599,10 @@ https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) Workpoint HD
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX JAPAN
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",NHK 
 http://203.162.235.41:16903
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK E TV
@@ -629,3 +644,8 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",WEATHER NEWS JAPAN
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+
+
+
+
