@@ -256,6 +256,7 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-
 #EXTINF:-1 group-title="LOKAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/300px-UseeTV.png",ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
+
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="http://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="LOKAL+",Jak TV
 http://103.47.132.164/PLTV/88888888/224/3221227237/2.m3u8
 #EXTINF:-1 tvg-group="ID" tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="LOKAL+",JiTV JOGJA HD
@@ -351,19 +352,19 @@ http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="FILM & SERIAL",HBO
-https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/myHBO.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8?HBO
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="FILM & SERIAL",HBO INDIA
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 #EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="FILM & SERIAL",HBO Hits 
-https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/myHITS.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8?HBO
 #EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="FILM & SERIAL",HBO Family
-https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/myFAM.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8?HBO
 #EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="FILM & SERIAL",HBO Signature
-https://raw.githubusercontent.com/ajonx/Ambyar-IPTV/master/mySIG.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8?HBO
 #EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="FILM & SERIAL",Cinemax
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/CINEMAX/index.m3u8?HBO
 #EXTINF:0 tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="FILM & SERIAL",Red By HBO
-https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO
 
 
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",K+
