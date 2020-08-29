@@ -361,8 +361,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX FAMILY MOVIES
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
-#EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FFOX Family Movies ID
-http://nonton.site:8888/333/333/14994
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Fox Movies
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 #EXTINF:-1 group-title="FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Crime
@@ -481,8 +479,11 @@ http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high
 http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/2os2CtT.jpg" group-title="KIDS",MCN KIDS HD
+http://210.210.155.35:80/uq2663/h/h98/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Nick JR ID
-http://nonton.site:8888/333/333/14165
+https://mkctvbos.my.id/campur/nick.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH4ZdqkP/onep.jpg" group-title="KIDS",ONE PUNCH MAN
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhFVhXFZ/tom.jpg" group-title="KIDS",Tom & Jerry TV
@@ -676,8 +677,10 @@ https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy.jpg" group-title="BERITA",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV5MONDE prancis 360P"  group-title="BERITA",TV5MONDE prancis 360P
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV5MONDE prancis 360P"  group-title="BERITA",TV5MONDE ASIE 360P
 http://210.210.155.35/session/67793070-7da1-11ea-a11f-b82a72d63267/qwr9ew/s/s24/02.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="BERITA",TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
 
 
