@@ -605,3 +605,621 @@ http://203.162.235.41:16908
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png",WOWOW CINEMA
 http://203.162.235.41:16916
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="FREEMIUM 1",~BARINUI~
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61117
+#EXTINF:-1 group-title="FREEMIUM 1",SBS
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61118
+#EXTINF:-1 group-title="FREEMIUM 1",SBS World Movies
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61119
+#EXTINF:-1 group-title="FREEMIUM 1",SBS Viceland
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61120
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN SPORTS | UHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61084
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN SPORTS 2 | UHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61085
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN SPORTS 1 | UHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61086
+#EXTINF:-1 group-title="FREEMIUM 1",ESPN 1 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61091
+#EXTINF:-1 group-title="FREEMIUM 1",ESPN 2 FHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61092
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports News FHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61093
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 501
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61094
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 502
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61095
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 503
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61096
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 504
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61097
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 505
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61098
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 506
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61099
+#EXTINF:-1 group-title="FREEMIUM 1",Fox Sports 507
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61100
+#EXTINF:-1 group-title="FREEMIUM 1",TV 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1734
+#EXTINF:-1 group-title="FREEMIUM 1",TV 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1733
+#EXTINF:-1 group-title="FREEMIUM 1",TV 3
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1732
+#EXTINF:-1 group-title="FREEMIUM 1",Super Sport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1722
+#EXTINF:-1 group-title="FREEMIUM 1",Super Sport 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1721
+#EXTINF:-1 group-title="FREEMIUM 1",Super Sport 3
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1720
+#EXTINF:-1 group-title="FREEMIUM 1",Super Sport 4
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1719
+#EXTINF:-1 group-title="FREEMIUM 1",Kix HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1716
+#EXTINF:-1 group-title="FREEMIUM 1",foxsports
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1710
+#EXTINF:-1 group-title="FREEMIUM 1",foxsports2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1709
+#EXTINF:-1 group-title="FREEMIUM 1",ARENA
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1703
+#EXTINF:-1 group-title="FREEMIUM 1",ASTRO ASSP HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/59220
+#EXTINF:-1 group-title="FREEMIUM 1",ASTRO ASSP2 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/59219
+#EXTINF:-1 group-title="FREEMIUM 1",ASTRO ASSP3 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/59218
+#EXTINF:-1 group-title="FREEMIUM 1",ASTRO ASSP4 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/59217
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60572
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60573
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 3
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60574
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 4
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60575
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 5
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60576
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 7
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60577
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 6
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60578
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 8
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60579
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 9
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60580
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 10
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60581
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 11
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60582
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 12
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60583
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Max
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1910
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Mix
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1909
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Set Max
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1908
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Sab Hindi
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1907
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Sab UK
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1906
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Six
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1905
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Ten 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1904
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Ten 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1903
+#EXTINF:-1 group-title="FREEMIUM 1",Sony Ten 3
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1902
+#EXTINF:-1 group-title="FREEMIUM 1",Star Gold
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1897
+#EXTINF:-1 group-title="FREEMIUM 1",Star Movies
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1896
+#EXTINF:-1 group-title="FREEMIUM 1",Star Plus
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1895
+#EXTINF:-1 group-title="FREEMIUM 1",Sony PIX
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1933
+#EXTINF:-1 group-title="FREEMIUM 1",HBO
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1930
+#EXTINF:-1 group-title="FREEMIUM 1",and-prive-hd
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/55340
+#EXTINF:-1 group-title="FREEMIUM 1",Animal Planet HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/55338
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 1 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2140
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 2 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2139
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 3 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2138
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 4 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2137
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 5 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2136
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 6 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2135
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 7 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2134
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 8 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2133
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 9 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2132
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 10 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2131
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 11 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2130
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 12 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2129
+#EXTINF:-1 group-title="FREEMIUM 1",Eurosport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28197
+#EXTINF:-1 group-title="FREEMIUM 1",Eurosport 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28198
+#EXTINF:-1 group-title="FREEMIUM 1",EUROSPORT 1 FHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28043
+#EXTINF:-1 group-title="FREEMIUM 1",EUROSPORT 2 FHD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28042
+#EXTINF:-1 group-title="FREEMIUM 1",EXTREME SPORTS HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28041
+#EXTINF:-1 group-title="FREEMIUM 1",BFM SPORT
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28132
+#EXTINF:-1 group-title="FREEMIUM 1",INFOSPORT
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28196
+#EXTINF:-1 group-title="FREEMIUM 1",Foot +
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27980
+#EXTINF:-1 group-title="FREEMIUM 1",RMC SPORT 1 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27960
+#EXTINF:-1 group-title="FREEMIUM 1",RMC SPORT 2 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27959
+#EXTINF:-1 group-title="FREEMIUM 1",RMC SPORT 3 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27958
+#EXTINF:-1 group-title="FREEMIUM 1",RMC SPORT 4 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27957
+#EXTINF:-1 group-title="FREEMIUM 1",RMC ACCESS 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27972
+#EXTINF:-1 group-title="FREEMIUM 1",RMC ACCESS  2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/27971
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2943
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2942
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport 3
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2941
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport ESPN
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2940
+#EXTINF:-1 group-title="FREEMIUM 1",Euro Sport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2917
+#EXTINF:-1 group-title="FREEMIUM 1",Euro Sport 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2916
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Arena HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2902
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Mix
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2882
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports MainEvent HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2881
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Action HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2880
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Cricket HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2879
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Golf
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2878
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports PremierLeague HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2877
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports F1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2876
+#EXTINF:-1 group-title="FREEMIUM 1",Racing UK
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2871
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Football HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2870
+#EXTINF:-1 group-title="FREEMIUM 1",Eir Sport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2868
+#EXTINF:-1 group-title="FREEMIUM 1",SKY SPORTS ACTION
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28958
+#EXTINF:-1 group-title="FREEMIUM 1",Setanta Sports 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28954
+#EXTINF:-1 group-title="FREEMIUM 1",PREMIERE SPORT HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28953
+#EXTINF:-1 group-title="FREEMIUM 1",Horror Channel
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28948
+#EXTINF:-1 group-title="FREEMIUM 1",Eurosport 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28947
+#EXTINF:-1 group-title="FREEMIUM 1",Eurosport 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28946
+#EXTINF:-1 group-title="FREEMIUM 1",Eir Sports2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28945
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Premier League SD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28942
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport Mosaic 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28940
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport Extra 4
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28939
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport Extra 2
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28938
+#EXTINF:-1 group-title="FREEMIUM 1",BT Sport Extra 1
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28937
+#EXTINF:-1 group-title="FREEMIUM 1",At The Races
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28936
+#EXTINF:-1 group-title="FREEMIUM 1",Premier Sports HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28934
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sport Main Events HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28919
+#EXTINF:-1 group-title="FREEMIUM 1",Match! HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/52221
+
+
+#EXTM3U
+#EXTINF:-1 group-title="FREEMIUM 2",MY WARNERTV
+http://main.realiptv.to:25461/live/charlie/charlie/119622.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Nat_Geo_Wild
+http://main.realiptv.to:25461/live/charlie/charlie/119623.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TVN
+http://main.realiptv.to:25461/live/charlie/charlie/119624.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TVN_Movies
+http://main.realiptv.to:25461/live/charlie/charlie/119625.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY NHK_World_Japan
+http://main.realiptv.to:25461/live/charlie/charlie/119626.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Channel_News_Asia
+http://main.realiptv.to:25461/live/charlie/charlie/119627.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY ABC_Australia
+http://main.realiptv.to:25461/live/charlie/charlie/119628.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY FOX_Sports3
+http://main.realiptv.to:25461/live/charlie/charlie/119629.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY FOX_Sports2
+http://main.realiptv.to:25461/live/charlie/charlie/119630.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY FOX_Sports1
+http://main.realiptv.to:25461/live/charlie/charlie/119631.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY France24
+http://main.realiptv.to:25461/live/charlie/charlie/119632.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Choice
+http://main.realiptv.to:25461/live/charlie/charlie/119633.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Baby TV
+http://main.realiptv.to:25461/live/charlie/charlie/119634.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY FX_Cinema
+http://main.realiptv.to:25461/live/charlie/charlie/119635.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Fox_Life
+http://main.realiptv.to:25461/live/charlie/charlie/119636.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Fox_Family_Movies
+http://main.realiptv.to:25461/live/charlie/charlie/119637.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY FOX
+http://main.realiptv.to:25461/live/charlie/charlie/119638.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Fox_Action_Movies
+http://main.realiptv.to:25461/live/charlie/charlie/119639.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Fox_Movies
+http://main.realiptv.to:25461/live/charlie/charlie/119640.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Hypp_Flicks_Plus
+http://main.realiptv.to:25461/live/charlie/charlie/119641.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Paramaunt_Channel
+http://main.realiptv.to:25461/live/charlie/charlie/119642.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY SCM_Legend
+http://main.realiptv.to:25461/live/charlie/charlie/119643.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Pesona
+http://main.realiptv.to:25461/live/charlie/charlie/119644.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Salam
+http://main.realiptv.to:25461/live/charlie/charlie/119645.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Star_Chinese_Channel
+http://main.realiptv.to:25461/live/charlie/charlie/119646.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY SCM
+http://main.realiptv.to:25461/live/charlie/charlie/119647.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Travel_Channel
+http://main.realiptv.to:25461/live/charlie/charlie/119648.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Dreamworks
+http://main.realiptv.to:25461/live/charlie/charlie/119649.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Hypp_Inspirasi
+http://main.realiptv.to:25461/live/charlie/charlie/119650.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Boomerang
+http://main.realiptv.to:25461/live/charlie/charlie/119651.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Cinema_World
+http://main.realiptv.to:25461/live/charlie/charlie/119652.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Nick JR
+http://main.realiptv.to:25461/live/charlie/charlie/119653.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY SETI
+http://main.realiptv.to:25461/live/charlie/charlie/119654.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY UTV_Movies_International
+http://main.realiptv.to:25461/live/charlie/charlie/119655.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Hypp_Sensasi
+http://main.realiptv.to:25461/live/charlie/charlie/119656.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY MTV_Asia
+http://main.realiptv.to:25461/live/charlie/charlie/119657.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV9
+http://main.realiptv.to:25461/live/charlie/charlie/119658.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV8
+http://main.realiptv.to:25461/live/charlie/charlie/119659.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY NTV7
+http://main.realiptv.to:25461/live/charlie/charlie/119660.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV3
+http://main.realiptv.to:25461/live/charlie/charlie/119661.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV2
+http://main.realiptv.to:25461/live/charlie/charlie/119662.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV1
+http://main.realiptv.to:25461/live/charlie/charlie/119663.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Laku_Mall
+http://main.realiptv.to:25461/live/charlie/charlie/119664.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Nat_Geo_Asia
+http://main.realiptv.to:25461/live/charlie/charlie/119665.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Animax
+http://main.realiptv.to:25461/live/charlie/charlie/119666.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Now_Jelli
+http://main.realiptv.to:25461/live/charlie/charlie/119667.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Now_Chinesa_Drama
+http://main.realiptv.to:25461/live/charlie/charlie/119668.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Nat_Geo_People
+http://main.realiptv.to:25461/live/charlie/charlie/119669.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Polimer_News
+http://main.realiptv.to:25461/live/charlie/charlie/119670.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Blue_ant_Extreme
+http://main.realiptv.to:25461/live/charlie/charlie/119671.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Blue_ant_Entertainment
+http://main.realiptv.to:25461/live/charlie/charlie/119672.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY LuxeTV
+http://main.realiptv.to:25461/live/charlie/charlie/119673.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Harapan_100
+http://main.realiptv.to:25461/live/charlie/charlie/119674.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Euronews
+http://main.realiptv.to:25461/live/charlie/charlie/119675.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY DW
+http://main.realiptv.to:25461/live/charlie/charlie/119676.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Aljazeera_Asia
+http://main.realiptv.to:25461/live/charlie/charlie/119677.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Sky_News
+http://main.realiptv.to:25461/live/charlie/charlie/119678.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY HBO
+http://main.realiptv.to:25461/live/charlie/charlie/119679.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY HBO_RED
+http://main.realiptv.to:25461/live/charlie/charlie/119680.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Love Nature
+http://main.realiptv.to:25461/live/charlie/charlie/119681.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV1 HD (Backup)
+http://main.realiptv.to:25461/live/charlie/charlie/119682.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV2 HD (Backup)
+http://main.realiptv.to:25461/live/charlie/charlie/119683.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Okey HD
+http://main.realiptv.to:25461/live/charlie/charlie/119684.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV Sukan HD
+http://main.realiptv.to:25461/live/charlie/charlie/119685.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Berita RTM HD
+http://main.realiptv.to:25461/live/charlie/charlie/119686.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Parlimen RTM Dewan Rakyat HD
+http://main.realiptv.to:25461/live/charlie/charlie/119687.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Parlimen RTM Dewan Rakyat 2 HD
+http://main.realiptv.to:25461/live/charlie/charlie/119688.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY BBC_Cbeebies
+http://main.realiptv.to:25461/live/charlie/charlie/119689.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY BBC_Lifestyle
+http://main.realiptv.to:25461/live/charlie/charlie/119690.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY BBC_Earth
+http://main.realiptv.to:25461/live/charlie/charlie/119691.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Comedy_Central
+http://main.realiptv.to:25461/live/charlie/charlie/119692.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY TV Alhijrah
+http://main.realiptv.to:25461/live/charlie/charlie/119693.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Colors_Tamil
+http://main.realiptv.to:25461/live/charlie/charlie/119694.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Dunia_Sinema
+http://main.realiptv.to:25461/live/charlie/charlie/119695.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Sony_Max
+http://main.realiptv.to:25461/live/charlie/charlie/119696.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Sony_Set
+http://main.realiptv.to:25461/live/charlie/charlie/119697.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Sony_Sab
+http://main.realiptv.to:25461/live/charlie/charlie/119698.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Zee_Cinema
+http://main.realiptv.to:25461/live/charlie/charlie/119699.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Zee TV
+http://main.realiptv.to:25461/live/charlie/charlie/119700.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Jaya_Max
+http://main.realiptv.to:25461/live/charlie/charlie/119701.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY BOLLYONE_HD
+http://main.realiptv.to:25461/live/charlie/charlie/119702.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY COLORS_HD
+http://main.realiptv.to:25461/live/charlie/charlie/119703.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY JAYA_TV
+http://main.realiptv.to:25461/live/charlie/charlie/119704.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY KPLUS_HD
+http://main.realiptv.to:25461/live/charlie/charlie/119705.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY RAJ_TV
+http://main.realiptv.to:25461/live/charlie/charlie/119706.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY STAR_VIJAY_HD
+http://main.realiptv.to:25461/live/charlie/charlie/119707.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY SUN_MUSIC
+http://main.realiptv.to:25461/live/charlie/charlie/119708.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY SUN_TV_HD
+http://main.realiptv.to:25461/live/charlie/charlie/119709.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY COLORS_TAMIL
+http://main.realiptv.to:25461/live/charlie/charlie/119710.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY BOLLYONE_HD_50fps
+http://main.realiptv.to:25461/live/charlie/charlie/119711.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro RIA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140700.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro PRIMA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140701.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro OASIS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140702.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro WARNA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140703.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro NAURA
+http://main.realiptv.to:25461/live/charlie/charlie/140704.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro GO SHOP
+http://main.realiptv.to:25461/live/charlie/charlie/140705.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro RANIA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140706.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro AURA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140707.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TV ALHIJRAH
+http://main.realiptv.to:25461/live/charlie/charlie/140708.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro COLORS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140709.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro GO SHOP
+http://main.realiptv.to:25461/live/charlie/charlie/140710.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro VAANAVIL HD
+http://main.realiptv.to:25461/live/charlie/charlie/140711.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro MAKKAL TV
+http://main.realiptv.to:25461/live/charlie/charlie/140712.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro VINMEEN HD
+http://main.realiptv.to:25461/live/charlie/charlie/140713.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro BOLLYONE HD
+http://main.realiptv.to:25461/live/charlie/charlie/140714.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro iQIYI HD
+http://main.realiptv.to:25461/live/charlie/charlie/140715.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro GO SHOP 2
+http://main.realiptv.to:25461/live/charlie/charlie/140716.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro XIAO TAI YANG HD
+http://main.realiptv.to:25461/live/charlie/charlie/140717.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TVB CLASSIC
+http://main.realiptv.to:25461/live/charlie/charlie/140718.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro QUAN JIA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140719.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CELESTIAL HD
+http://main.realiptv.to:25461/live/charlie/charlie/140720.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CCM
+http://main.realiptv.to:25461/live/charlie/charlie/140721.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CCTV4 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140722.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro KBSW HD
+http://main.realiptv.to:25461/live/charlie/charlie/140723.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ONE HD
+http://main.realiptv.to:25461/live/charlie/charlie/140724.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro Oh!K HD
+http://main.realiptv.to:25461/live/charlie/charlie/140725.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro tvN HD
+http://main.realiptv.to:25461/live/charlie/charlie/140726.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro KPLUS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140727.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro HITS MOVIES HD
+http://main.realiptv.to:25461/live/charlie/charlie/140728.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro HBO HD
+http://main.realiptv.to:25461/live/charlie/charlie/140729.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CINEMAX HD
+http://main.realiptv.to:25461/live/charlie/charlie/140730.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro tvN Movies
+http://main.realiptv.to:25461/live/charlie/charlie/140731.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro AWANI
+http://main.realiptv.to:25461/live/charlie/charlie/140732.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro BNC
+http://main.realiptv.to:25461/live/charlie/charlie/140733.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CGTN
+http://main.realiptv.to:25461/live/charlie/charlie/140734.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CNN HD
+http://main.realiptv.to:25461/live/charlie/charlie/140735.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro BBC News HD
+http://main.realiptv.to:25461/live/charlie/charlie/140736.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro AL JAZEERA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140737.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro SKY NEWS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140738.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CNA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140739.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CNBC
+http://main.realiptv.to:25461/live/charlie/charlie/140740.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro BLOOMBERG TV
+http://main.realiptv.to:25461/live/charlie/charlie/140741.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ABC AUSTRALIA
+http://main.realiptv.to:25461/live/charlie/charlie/140742.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DW HD
+http://main.realiptv.to:25461/live/charlie/charlie/140743.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro FRANCE24 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140744.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro NGW HD
+http://main.realiptv.to:25461/live/charlie/charlie/140745.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro NAT GEO HD
+http://main.realiptv.to:25461/live/charlie/charlie/140746.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DISCOVERY HD
+http://main.realiptv.to:25461/live/charlie/charlie/140747.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DISCOVERY ASIA
+http://main.realiptv.to:25461/live/charlie/charlie/140748.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DISC SCI HD
+http://main.realiptv.to:25461/live/charlie/charlie/140749.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro HISTORY HD
+http://main.realiptv.to:25461/live/charlie/charlie/140750.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ANIMAL PLANET HD
+http://main.realiptv.to:25461/live/charlie/charlie/140751.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TUTOR TV UPSR
+http://main.realiptv.to:25461/live/charlie/charlie/140752.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TUTOR TV PT3
+http://main.realiptv.to:25461/live/charlie/charlie/140753.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TUTOR TV SPM
+http://main.realiptv.to:25461/live/charlie/charlie/140754.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TVIQ
+http://main.realiptv.to:25461/live/charlie/charlie/140755.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CERIA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140756.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DISNEY XD HD
+http://main.realiptv.to:25461/live/charlie/charlie/140757.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro STAY HOME CONCERT
+http://main.realiptv.to:25461/live/charlie/charlie/140758.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro AXN HD
+http://main.realiptv.to:25461/live/charlie/charlie/140759.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro HELLO
+http://main.realiptv.to:25461/live/charlie/charlie/140760.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro KIX HD
+http://main.realiptv.to:25461/live/charlie/charlie/140761.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro HITS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140762.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro TLC HD
+http://main.realiptv.to:25461/live/charlie/charlie/140763.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro FOOD NTWK HD
+http://main.realiptv.to:25461/live/charlie/charlie/140764.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro AFN HD
+http://main.realiptv.to:25461/live/charlie/charlie/140765.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro NAT GEO PEOPLE
+http://main.realiptv.to:25461/live/charlie/charlie/140766.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro WARNER TV
+http://main.realiptv.to:25461/live/charlie/charlie/140767.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CI HD
+http://main.realiptv.to:25461/live/charlie/charlie/140768.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro HGTV HD
+http://main.realiptv.to:25461/live/charlie/charlie/140769.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DMAX HD
+http://main.realiptv.to:25461/live/charlie/charlie/140770.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro COMEDY CENTRAL
+http://main.realiptv.to:25461/live/charlie/charlie/140771.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro MTV
+http://main.realiptv.to:25461/live/charlie/charlie/140772.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ANIMAX
+http://main.realiptv.to:25461/live/charlie/charlie/140773.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ANIPLUS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140774.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro eGG Network
+http://main.realiptv.to:25461/live/charlie/charlie/140775.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ARENA HD
+http://main.realiptv.to:25461/live/charlie/charlie/140776.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ASSP HD
+http://main.realiptv.to:25461/live/charlie/charlie/140777.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ASSP2 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140778.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ASSP3 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140779.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ASSP4 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140780.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro FOX SPORTS HD
+http://main.realiptv.to:25461/live/charlie/charlie/140781.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro FOX SPORTS 2 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140782.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro FOX SPORTS 3 HD
+http://main.realiptv.to:25461/live/charlie/charlie/140783.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro beIN SPORTS
+http://main.realiptv.to:25461/live/charlie/charlie/140784.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro bEIN MAX
+http://main.realiptv.to:25461/live/charlie/charlie/140785.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro EUROSPORT HD
+http://main.realiptv.to:25461/live/charlie/charlie/140786.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DISNEY JUNIOR
+http://main.realiptv.to:25461/live/charlie/charlie/140787.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro DISNEY CHANNEL HD
+http://main.realiptv.to:25461/live/charlie/charlie/140788.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro CARTOON NTWK HD
+http://main.realiptv.to:25461/live/charlie/charlie/140789.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro NICKELODEON HD
+http://main.realiptv.to:25461/live/charlie/charlie/140790.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro NICK JR
+http://main.realiptv.to:25461/live/charlie/charlie/140791.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro ASTRO CRICKET
+http://main.realiptv.to:25461/live/charlie/charlie/140792.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro RUGBY PASS TV
+http://main.realiptv.to:25461/live/charlie/charlie/140793.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro GOLF CHANNEL HD
+http://main.realiptv.to:25461/live/charlie/charlie/140794.m3u8
+#EXTINF:-1 group-title="FREEMIUM 2",MY Astro WWE NETWORK
+http://main.realiptv.to:25461/live/charlie/charlie/140795.m3u8
+
