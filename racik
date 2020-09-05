@@ -87,10 +87,12 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist288p.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg",BT SPORT 1 HD
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BT SPORT 1 HD
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg",BT SPORT 2 HD
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BT SPORT 2 HD
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-chelseatv.jpg",CHELSEA TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Dubai Sports 1 (HD)
@@ -107,6 +109,10 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
 #EXTINF:-1 group-title="02 SPORTS",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport1.jpg", EURO SPORTS 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport2.jpg", EURO SPORTS 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="hhttps://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg group-title=",Fight Sports
 http://103.47.132.164/PLTV/88888888/224/3221227065/1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
@@ -129,8 +135,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227325/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",Golf Channel HD
 https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg",LIVERPOOL TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV! Russia
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg",MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png",Now Sports Prime
@@ -140,15 +150,26 @@ http://livetv.dnsfor.me/channel.12.m3u8
 http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://bit.ly/3gpRLt7",Persija TV
 http://103.47.132.164/PLTV/88888888/224/3221227429/1.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg",Premier Football HD 4
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg",Premier Football HD 4 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",Premier Football HD 5
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",Premier Football HD 5 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports HD 720
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
@@ -172,6 +193,12 @@ https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",SkyNet Sport HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg",Sky Sports Football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg",Sky Sports Premier League
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/QTRyKv9.png",Sony Ten 1 HD Backup
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg",Sony Ten 2 [Extra-1]
@@ -180,6 +207,19 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 http://run.iptv.cab:80/live/nbknripni/106646nbk/1463.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",SPORTmax
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 5
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/CRYe7Gt.png",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/CRYe7Gt.png",Star Sports Select 2 HD
@@ -212,6 +252,9 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png",Varzesh 4
 http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg",WWE LIVE
+https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://static.epg.best/id/DaaiTv.id.png",Da Ai Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227241/2.m3u8
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",DAAI TV
@@ -372,14 +415,13 @@ http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 #EXTINF:-1 group-title="06 ANIMASI DAN KARTUN ANAK" tvg-logo="https://i.imgur.com/2os2CtT.jpg",MCN KIDS HD
 http://210.210.155.35:80/uq2663/h/h98/index.m3u8
-#EXTINF:-1 group-title="06 ANIMASI DAN KARTUN ANAK" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Nick JR ID
-https://mkctvbos.my.id/campur/nick.m3u8
 #EXTINF:-1 group-title="06 ANIMASI DAN KARTUN ANAK" tvg-logo="https://i.postimg.cc/vH4ZdqkP/onep.jpg",ONE PUNCH MAN
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
 #EXTINF:-1 group-title="06 ANIMASI DAN KARTUN ANAK" tvg-logo="https://i.postimg.cc/RhFVhXFZ/tom.jpg",Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 group-title="06 ANIMASI DAN KARTUN ANAK" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/1.m3u8
+
 #EXTINF:-1 group-title="07 PENGETAHUAN" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",ANIMAL PLANET
 http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
 #EXTINF:-1 group-title="07 PENGETAHUAN" tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png",Asian Food Network
