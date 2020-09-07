@@ -127,8 +127,12 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1 TH
+https://cdn227.cloud-streaming.com/ballsoi8_r1/beinsport1_480p/chunks.m3u8?nimblesessionid=4200973&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMTozNjo0MCBQTSZoYXNoX3ZhbHVlPTJoRjBYZW8yeDJyNUIzNTI2Q1A1aFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNjg1MDA=
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 TH
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 TH (Alt)
+https://cdn227.cloud-streaming.com/ballsoi8_r1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=4200983&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMTozNzo0OCBQTSZoYXNoX3ZhbHVlPUNVUEEwdkQxMkJxNWdQdEhHSmdnZ1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD04NDY2MDE=
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist288p.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BT SPORT 1 HD
@@ -198,11 +202,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227429/1.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
-
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 (Opt-3)
+https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl1_480p/chunks.m3u8?nimblesessionid=4200971&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMTozNjo0MCBQTSZoYXNoX3ZhbHVlPURNMWp4MTU0dW5mOEhHUzR0d0ZhL1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00NDAwMzQ=
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2 (Opt-3)
+https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl2_480p/chunks.m3u8?nimblesessionid=4200960&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMTozNToyNiBQTSZoYXNoX3ZhbHVlPXVHY2p4S3FpOFdTU3FKdzg5bHZXVHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNTY2NDA=
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3 (Opt-2)
