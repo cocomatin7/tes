@@ -90,40 +90,39 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
 
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 1 
-#EXTVLCOPT:network-caching=1000
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/48
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 2 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/44
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 3 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/40
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 4 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/36
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 5 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/32
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 6 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/28
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 7 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/24
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 8 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/20
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 9 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/15
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 10 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/12
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 11 
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/9
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 12
-#EXTVLCOPT:network-caching=1000
+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1 TH
@@ -196,7 +195,7 @@ http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://bit.ly/3gpRLt7",Persija TV
 http://103.47.132.164/PLTV/88888888/224/3221227429/1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 
@@ -1265,3 +1264,4 @@ http://main.realiptv.to:25461/live/charlie/charlie/119622.m3u8
 http://main.realiptv.to:25461/live/charlie/charlie/119700.m3u8
 #EXTINF:-1 group-title="FREEMIUM 2",MY Zee_Cinema
 http://main.realiptv.to:25461/live/charlie/charlie/119699.m3u8
+
