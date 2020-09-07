@@ -195,24 +195,24 @@ http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://bit.ly/3gpRLt7",Persija TV
 http://103.47.132.164/PLTV/88888888/224/3221227429/1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3
-https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg",Premier Football HD 4
-https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg",Premier Football HD 4 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",Premier Football HD 5
-https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",Premier Football HD 5 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports HD 720
@@ -1264,4 +1264,3 @@ http://main.realiptv.to:25461/live/charlie/charlie/119622.m3u8
 http://main.realiptv.to:25461/live/charlie/charlie/119700.m3u8
 #EXTINF:-1 group-title="FREEMIUM 2",MY Zee_Cinema
 http://main.realiptv.to:25461/live/charlie/charlie/119699.m3u8
-
