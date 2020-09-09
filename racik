@@ -674,12 +674,6 @@ http://a1.hdflix.live:8880/LZLM6259/3454jk4533/59217
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28936
 #EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 1 HD
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2140
-#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 10 HD
-http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2131
-#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 11 HD
-http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2130
-#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 12 HD
-http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2129
 #EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 2 HD
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2139
 #EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 3 HD
@@ -696,6 +690,12 @@ http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2134
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2133
 #EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 9 HD
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2132
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 10 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2131
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 11 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2130
+#EXTINF:-1 group-title="FREEMIUM 1",BeIN Sport 12 HD
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2129
 #EXTINF:-1 group-title="FREEMIUM 1",BeIN SPORTS | UHD
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/61084
 #EXTINF:-1 group-title="FREEMIUM 1",BeIN SPORTS 1 | UHD
@@ -826,7 +826,7 @@ http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2881
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2882
 #EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Premier League SD
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/28942
-#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports PremierLeague HD
+#EXTINF:-1 group-title="FREEMIUM 1",Sky Sports Premier League HD
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/2877
 #EXTINF:-1 group-title="FREEMIUM 1",Sony Max
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1910
@@ -864,12 +864,6 @@ http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1720
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1719
 #EXTINF:-1 group-title="FREEMIUM 1",SuperSport 1
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60572
-#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 10
-http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60581
-#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 11
-http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60582
-#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 12
-http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60583
 #EXTINF:-1 group-title="FREEMIUM 1",SuperSport 2
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60573
 #EXTINF:-1 group-title="FREEMIUM 1",SuperSport 3
@@ -886,6 +880,12 @@ http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60577
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60579
 #EXTINF:-1 group-title="FREEMIUM 1",SuperSport 9
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60580
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 10
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60581
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 11
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60582
+#EXTINF:-1 group-title="FREEMIUM 1",SuperSport 12
+http://a1.hdflix.live:8880/LZLM6259/3454jk4533/60583
 #EXTINF:-1 group-title="FREEMIUM 1",TV 1
 http://a1.hdflix.live:8880/LZLM6259/3454jk4533/1734
 #EXTINF:-1 group-title="FREEMIUM 1",TV 2
