@@ -61,6 +61,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227195/2.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV (Backup)
 http://103.47.132.164/PLTV/88888888/224/3221227197/2.m3u8
+
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvone_big1.png",TV ONE
 http://210.210.155.35/session/f282fbe2-6910-11ea-b0e3-c81f66f89318/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvone_big1.png",TV ONE (2)
@@ -235,6 +236,9 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg",Sports STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/CRYe7Gt.png",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
@@ -250,7 +254,6 @@ https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",True Premier HD 2 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",True Premier HD 2 (Opt-3)
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",True Premier HD 3
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
@@ -263,8 +266,9 @@ https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",True Premier HD 5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",True Premier HD 5 (Opt-2)
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg",True Premier HD 5 (Opt-3)
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",True Tennis HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
