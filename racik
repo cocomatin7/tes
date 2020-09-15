@@ -99,41 +99,7 @@ http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10368.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="02 SPORTS", Astro SuperSport 4
 http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10369.m3u8
 
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 1 
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/48
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 2 
 
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/44
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 3 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/40
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 4 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/36
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 5 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/32
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 6 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/28
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 7 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/24
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 8 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/20
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 9 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/15
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 10 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/12
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 11 
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/9
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="02 SPORTS", beINSport 12
-
-http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -342,9 +308,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227237/2.m3u8
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png",JiTV JOGJA HD
 http://202.169.224.76:1935/tv/jitv/chunklist_w1644101270.m3u8
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV
-http://103.47.132.164/PLTV/88888888/224/3221227243/2.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",JTV SURABAYA (2)
 http://122.248.43.138:1935/ch2/myStream/chunklist_w7607647.m3u8
+
+
+
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png",MNC life
 https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/Mayapada_TV.png",MYTV
@@ -598,7 +567,7 @@ https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) CH5 HD
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) CH7 HD
-https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/7hd_720p/chunks.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) MCOT HD
 https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) PPTV HD
