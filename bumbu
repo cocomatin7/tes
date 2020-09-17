@@ -370,6 +370,8 @@ http://210.210.155.35/uq2663/h/h04/02.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/CINEMAX/index.m3u8?HBO
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CRIME INVESTIGATION
 http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
+#EXTINF:-1 tvg-logo="127.0.0.1" group-title="05 FILM & SERIAL",DRAKOR TV
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX
