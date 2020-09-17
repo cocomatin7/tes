@@ -289,7 +289,7 @@ http://163.172.138.186/hls/stream.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg",WWE LIVE
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+http://iptv.zqstream.com/zqsport-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://static.epg.best/id/DaaiTv.id.png",Da Ai Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227241/2.m3u8
@@ -371,7 +371,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/CINEMAX/index.m3u8?HBO
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",CRIME INVESTIGATION
 http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
 #EXTINF:-1 tvg-logo="127.0.0.1" group-title="05 FILM & SERIAL",DRAKOR TV
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX
