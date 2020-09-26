@@ -67,13 +67,15 @@ http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvone_big1.png",TV ONE
 http://210.210.155.35/session/f282fbe2-6910-11ea-b0e3-c81f66f89318/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvone_big1.png",TV ONE (2)
-http://103.47.132.164/PLTV/88888888/224/3221227213/03.m3u8
+https://mkctv.net/josmkc/tvone.m3u8
+
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_tvri_big1.png",TVRI NASIONAL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (2)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (3)
 http://103.47.132.164/PLTV/88888888/224/3221227229/2.m3u8
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 2
@@ -117,12 +119,16 @@ http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59217
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/uRfHWQD.png",Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="02 SPORTS",BeInSports 1 ID
+https://kamiselaluada.com/m3u/bein1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="02 SPORTS",BeInSports 2 ID
+https://kamiselaluada.com/m3u/bein2.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 TH
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist288p.m3u8
@@ -135,8 +141,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="02 SPORTS",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="02 SPORTS",CHAMPIONS 1
+https://mkctv.net/vidbos/champion.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="02 SPORTS",CHAMPIONS 2
+https://mkctv.net/vidbos/useesports2.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-chelseatv.jpg",CHELSEA TV
 https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Dubai Sports 1 (HD)
@@ -175,6 +186,14 @@ https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Sport News AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="02 SPORTS",Fox Sport 1
+https://mkctv.net/josmkc/foxs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="02 SPORTS",Fox Sport 2
+https://mkctv.net/josmkc/foxs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="02 SPORTS",Fox Sport 3
+https://mkctv.net/josmkc/foxs3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="02 SPORTS",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="02 SPORTS",Fox Sports 2 Asia
@@ -299,6 +318,11 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TVRI SPORTS
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="02 SPORTS",USEE SPORTS 
+https://kamiselaluada.com/m3u/useesports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="02 SPORTS",USEE SPORT 2 
+https://kamiselaluada.com/m3u/useesports2.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png",Varzesh 1
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png",Varzesh 2
@@ -402,7 +426,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Crime
 http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX FAMILY MOVIES
-http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
+https://mkctv.net/josmkc/foxfamily.m3u8
+
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",FOX Life
 http://103.47.132.165/PLTV/88888888/224/3221227277/1.m3u8
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Fox Movies
