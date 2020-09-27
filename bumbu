@@ -204,6 +204,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227325/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",Golf Channel TH
 https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="http://yoda.az/idmanlive/idman_logo.png",IDMAN TV AZ
+http://str.yodacdn.net/idman/tracks-v2a1/mono.m3u8?token=aee2adc1a2c73ca88474fc249cdf4778553eb895-41d57db57a515e96030b08b57e1ad4e4-1601207150-1601196350
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg",LIVERPOOL TV
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV! Russia
