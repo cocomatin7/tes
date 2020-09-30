@@ -117,7 +117,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/uRfHWQD.png",Bayern Munchen TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s37-v1-a1.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 1
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
@@ -140,9 +140,9 @@ http://fariszah.myq-see.com:8008/live/demo/demo/2315.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 10
 http://fariszah.myq-see.com:8008/live/demo/demo/2316.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 11
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/e76bf6c69cd42a7.m3u8|User-Agent=stream
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/e76bf6c69cd42a7.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 12
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/3ab230f8b2389fb.m3u8|User-Agent=stream
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/3ab230f8b2389fb.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AU 1
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/671a29d73a47e8f.m3u8
